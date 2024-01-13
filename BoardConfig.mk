@@ -21,7 +21,7 @@ TARGET_NO_RECOVERY := true
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG += xiaomi/tissot.config
+TARGET_KERNEL_CONFIG := tissot_defconfig
 
 # A/B
 AB_OTA_PARTITIONS += \
