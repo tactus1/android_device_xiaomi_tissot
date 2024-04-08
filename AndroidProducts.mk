@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tissot.mk
+    $(LOCAL_DIR)/horizon_tissot.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_tissot-ap1a-userdebug \
-    aosp_tissot-ap1a-user \
-    aosp_tissot-ap1a-eng
+    horizon_tissot-ap1a-userdebug \
+    horizon_tissot-ap1a-user \
+    horizon_tissot-ap1a-eng
