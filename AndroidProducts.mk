@@ -6,3 +6,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_tissot.mk
+
+COMMON_LUNCH_CHOICES := \
+    aosp_tissot-eng \
+    aosp_tissot-userdebug \
+    aosp_tissot-user
