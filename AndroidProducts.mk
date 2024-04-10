@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tissot.mk
+    $(LOCAL_DIR)/yaap_tissot.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_tissot-ap1a-userdebug \
-    lineage_tissot-ap1a-user \
-    lineage_tissot-ap1a-eng
+    yaap_tissot-userdebug \
+    yaap_tissot-user \
+    yaap_tissot-eng
