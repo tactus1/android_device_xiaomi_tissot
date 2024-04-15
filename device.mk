@@ -27,8 +27,8 @@ AB_OTA_POSTINSTALL_CONFIG += \
 PRODUCT_PACKAGES += \
     otapreopt_script
 
-# Target Board Platform
-TARGET_BOARD_PLATFORM := msm8953
+# Get Qcom components 
+TARGET_BOARD_PLATFORM :=  msm8953
 
 # Boot control
 PRODUCT_PACKAGES += \
