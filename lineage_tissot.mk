@@ -55,6 +55,7 @@ TARGET_HAS_UDFPS := false
 # Debugging stuff
 TARGET_EXCLUDES_AUDIOFX := true
 
-
+# Boot animation
+TARGET_BOOT_ANIMATION_RES := 1080
 
 
